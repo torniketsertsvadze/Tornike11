@@ -1,0 +1,32 @@
+html{
+    font-family:sans-serif;
+    background-color:rgb(62, 173, 10) ;
+    
+}
+
+
+*{
+    margin:0;
+    padding:0;
+}
+#cont{
+    width: 600px;
+    height:730px;
+    border:5px solid rgb(10, 12, 116);
+margin-top:40px;
+background-color: rgb(224, 51, 20)
+}
+#player{
+    width: 40px;
+    height:40px;
+margin-top:40px;
+margin-right: 500px;
+background-color: rgb(211, 247, 9)
+
+
+}
+#timer{
+    font-weight: bold;
+    font-size: 40px;
+
+}
